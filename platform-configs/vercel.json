@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "builds": [{ "src": "frontend/react-vite/**", "use": "@vercel/static-build" }],
+  "env": { "API_URL": "@api_url" }
+}
