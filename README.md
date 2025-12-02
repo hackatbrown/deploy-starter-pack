@@ -8,4 +8,4 @@ Pick a folder that matches your project:
 - `backend/python-fastapi` → Python API
 - `ml-demos/streamlit` or `ml-demos/gradio` → ML demos
 
-**Deploy in 2 minutes:** see `docs/QUICKSTART.md`.
+**Deploy in 2 minutes:** see [`docs/QUICKSTART.md`](https://github.com/hackatbrown/deploy-starter-pack/blob/main/docs/QUICKSTART.md).
